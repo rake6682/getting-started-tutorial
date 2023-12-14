@@ -1,0 +1,6 @@
+*.probe
+*.lock
+*.bin
+*.properties
+*.dll
+*.pdb
