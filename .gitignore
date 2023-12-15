@@ -9,3 +9,4 @@ simgui-window.json
 simgui.json
 networktables.json
 .DS_Store
+bin/
