@@ -4,3 +4,7 @@
 *.properties
 *.dll
 *.pdb
+simgui-ds.json
+simgui-window.json
+simgui.json
+networktables.json
